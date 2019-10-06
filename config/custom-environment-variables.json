@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey" : "NodeProj_CustomKey",
+    "mail":{
+        "password": "practice_password"
+    }
+}
